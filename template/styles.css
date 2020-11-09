@@ -28,6 +28,7 @@ header{
 }
 .nav-links{
     display: flex;
+    margin-left:auto;
     /* background-color: #cece; */
     gap:30px;
 }
