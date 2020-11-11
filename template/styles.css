@@ -28,10 +28,16 @@ header{
 }
 .nav-links{
     display: flex;
+<<<<<<< HEAD
     align-items: center;
     justify-content:space-evenly;
     gap: 30px;
     height: 100%;
+=======
+    margin-left:auto;
+    /* background-color: #cece; */
+    gap:30px;
+>>>>>>> b02929c58568557f40218abb65349c357deb1c7b
 }
 li{
     list-style-type: none;
